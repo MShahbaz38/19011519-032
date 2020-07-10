@@ -1,0 +1,9 @@
+1,CR-01,1,25,Class Room
+2,CR-02,1,25,Class Room
+3,CR-03,1,25,Class Room
+4,CR-04,2,25,Class Room
+5,CR-05,2,20,Class Room
+6,CR-05,2,20,Class Room
+7,LR-01,1,15,Lab Room
+8,LR-02,2,15,Lab Room
+9,LR-03,3,25,Lab Room
